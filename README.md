@@ -7,14 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansharya09&label=Profile%20views&color=0e75b6&style=flat" alt="divyansharya09" /> </p>
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Image">
 
-
-- 🔭 I’m currently working on [recipe App](https://github.com/DivyanshArya09/Recipe_App_with_clean_arch_bloc_with_tests)
-
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 🤝 I’m looking for help with **Clean Architecture**
-
-- 💬 Ask me about **Flutter, Dart, Java, Html, CSS, JavaScript, FireBase, Rest Api**
+- 💬 Ask me about **Flutter, Dart, Java, HTML, CSS, JavaScript, FireBase, Rest Api**
 
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
