@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **Flutter, Dart, Java, HTML, CSS, JavaScript, FireBase, Rest Api**
+- 💬 Ask me about **Flutter, Dart, Java, HTML, CSS, JavaScript, FireBase, Rest API**
 
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
