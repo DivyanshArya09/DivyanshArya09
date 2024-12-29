@@ -11,7 +11,7 @@
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
 <h2 align="left">🚀 Tech Stack</h2>
-- Languages: **Dart, Java, JavaScript, TypeScript**
+- Languages **Dart, Java, JavaScript, TypeScript**
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
   <h2 style="margin-right: 20px;">Languages:</h2>
   <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
