@@ -13,13 +13,9 @@
 <h2 align="left">🚀 Tech Stack</h2>
 
 - **Languages**: Dart, Java, JavaScript, TypeScript
-
 - **Frameworks and Libraries**: Flutter, Node.js, Express, Next.js, React.js, Jetpack Compose
-
 - **CSS Frameworks**: Tailwind CSS
-
 - **Databases**: MongoDB, PostgreSQL
-
 - **Others**: Firebase
 
 <h3 align="left">Connect with me:</h3>
