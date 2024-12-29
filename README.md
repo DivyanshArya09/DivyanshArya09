@@ -5,9 +5,7 @@
 <h3 align="start">A passionate Mobile Application Developer from India</h3>
 
 - 🎯 Full-Stack Application Developer | ✍🏻 sketch artist | 🖥️ Open Source Enthusiast 
-
 - 🌟 Passionate about building robust applications with **Flutter, React JS, Next JS, Node JS, Jetpack compose**
-
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
 <h2 align="left">🚀 Tech Stack</h2>
