@@ -11,9 +11,7 @@
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
 <h2 align="left">🚀 Tech Stack</h2>
-
-
-<h2>🚀 Languages</h2>
+<h3>🚀 Languages</h3>
 <ul>
   <li>Dart</li>
   <li>Java</li>
