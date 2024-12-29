@@ -11,6 +11,7 @@
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
 <h2 align="left">🚀 Tech Stack</h2>
+<div display="flex">
 <h2>🚀 Languages</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" height="30" /> Dart
@@ -18,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" /> Java
 </p>
+</div>
 
 <h2>💾 Databases</h2>
 <p align="left">
