@@ -12,6 +12,41 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
+
+<h2>🚀 Languages</h2>
+<ul>
+  <li>Dart</li>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+</ul>
+
+<h2>🛠️ Frameworks and Libraries</h2>
+<ul>
+  <li>Flutter</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Next.js</li>
+  <li>React.js</li>
+</ul>
+
+<h2>🎨 CSS Frameworks</h2>
+<ul>
+  <li>Tailwind CSS</li>
+</ul>
+
+<h2>💾 Databases</h2>
+<ul>
+  <li>MongoDB</li>
+  <li>PostgreSQL</li>
+</ul>
+
+<h2>🔧 Others</h2>
+<ul>
+  <li>Firebase</li>
+</ul>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/x.divyansh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.divyansh07" height="30" width="40" /></a>
