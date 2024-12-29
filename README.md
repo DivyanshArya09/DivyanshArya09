@@ -79,7 +79,8 @@
        alt="divyansharya09" 
        height="180" />
 </p>
-<h3 align="start">My contributions are been eaten by a snake</h3>
+
+<h3 align="start">The snake’s been busy, and my contributions are its latest snack! 🐍🥡</h3>
 
 ![snake gif](https://github.com/DivyanshArya09/DivyanshArya09/blob/output/github-snake-dark.svg)
 
