@@ -12,43 +12,15 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
-- Languages: **Dart, Java, JavaScript, TypeScript**
-- 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
-  <h2 style="margin-right: 20px;">Languages:</h2>
-  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
-    <strong>Dart:</strong>, <strong>Java:</strong>, <strong>JavaScript:</strong>, <strong>TypeScript:</strong>
-  </p>
-</div>
+- **Languages**: Dart, Java, JavaScript, TypeScript
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
-  <h2 style="margin-right: 20px;">Frameworks and Libraries:</h2>
-  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
-    <strong>Flutter:</strong>, <strong>Node.js:</strong>, <strong>Express:</strong>, <strong>Next.js:</strong>, <strong>React.js:</strong>
-  </p>
-</div>
+- **Frameworks and Libraries**: Flutter, Node.js, Express, Next.js, React.js, Jetpack Compose
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
-  <h2 style="margin-right: 20px;">CSS Frameworks:</h2>
-  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
-    <strong>Tailwind CSS</strong>
-  </p>
-</div>
+- **CSS Frameworks**: Tailwind CSS
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
-  <h2 style="margin-right: 20px;">Databases:</h2>
-  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
-    <strong>MongoDB</strong>, <strong>PostgreSQL</strong>
-  </p>
-</div>
+- **Databases**: MongoDB, PostgreSQL
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
-  <h2 style="margin-right: 20px;">Others:</h2>
-  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
-    <strong>Firebase</strong>
-  </p>
-</div>
-
+- **Others**: Firebase
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
