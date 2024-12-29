@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋, I'm Divyansh</h2>
+<h2 align="start">Hi 👋, I'm Divyansh Arya</h2>
 
 <h3 align="center">A passionate Mobile Application Developer from India</h3>
 
