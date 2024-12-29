@@ -21,11 +21,9 @@
   <a href="https://instagram.com/x.divyansh07" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.divyansh07" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/_divyansh_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_divyansh_" height="30" width="40" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/divyansh-4a25b2284/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="divyansh" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="divyansh" height="30" width="30" />
   </a>
 </p>
 
