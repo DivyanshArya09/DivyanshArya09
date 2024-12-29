@@ -11,39 +11,38 @@
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
 <h2 align="left">🚀 Tech Stack</h2>
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <p style="margin-right: 10px;">🛠️ Frameworks and Libraries:</p>
-  <p style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30" style="margin-right: 10px;" /> Flutter
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" style="margin-right: 10px;" /> Node.js
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30" height="30" style="margin-right: 10px;" /> Express.js
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" style="margin-right: 10px;" /> Next.js
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="30" height="30" style="margin-right: 10px;" /> React.js
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
+  <h2 style="margin-right: 20px;">Languages:</h2>
+  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
+    <strong>Dart:</strong>, <strong>Java:</strong>, <strong>JavaScript:</strong>, <strong>TypeScript:</strong>
   </p>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <h2 style="margin-right: 10px;">🚀 Languages:</h2>
-  <p style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" height="30" style="margin-right: 10px;" /> Dart
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;" /> TypeScript
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;" /> JavaScript
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right: 10px;" /> Java
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
+  <h2 style="margin-right: 20px;">Frameworks and Libraries:</h2>
+  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
+    <strong>Flutter:</strong>, <strong>Node.js:</strong>, <strong>Express:</strong>, <strong>Next.js:</strong>, <strong>React.js:</strong>
   </p>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <h2 style="margin-right: 10px;">💾 Databases:</h2>
-  <p style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;" /> MongoDB
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" style="margin-right: 10px;" /> PostgreSQL
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
+  <h2 style="margin-right: 20px;">CSS Frameworks:</h2>
+  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
+    <strong>Tailwind CSS</strong>
   </p>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <h2 style="margin-right: 10px;">🎨 CSS Frameworks:</h2>
-  <p style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30" style="margin-right: 10px;" /> Tailwind CSS
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
+  <h2 style="margin-right: 20px;">Databases:</h2>
+  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
+    <strong>MongoDB</strong>, <strong>PostgreSQL</strong>
+  </p>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; margin-bottom: 20px;">
+  <h2 style="margin-right: 20px;">Others:</h2>
+  <p style="margin: 0; display: flex; flex-direction: row; gap: 15px; align-items: center;">
+    <strong>Firebase</strong>
   </p>
 </div>
 
