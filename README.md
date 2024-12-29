@@ -12,37 +12,76 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 <h2>🚀 Languages</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
-</p>
+<div align="left">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Dart</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Java</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">JavaScript</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">TypeScript</span>
+  </div>
+</div>
 
 <h2>🛠️ Frameworks and Libraries</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" />
-</p>
+<div align="left">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Flutter</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Node.js</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Express.js</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Next.js</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">React.js</span>
+  </div>
+</div>
 
 <h2>🎨 CSS Frameworks</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
-</p>
+<div align="left">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Tailwind CSS</span>
+  </div>
+</div>
 
 <h2>💾 Databases</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
-</p>
+<div align="left">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">MongoDB</span>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">PostgreSQL</span>
+  </div>
+</div>
 
 <h2>🔧 Others</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
-</p>
+<div align="left">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+    <span style="margin-left: 10px; font-size: 16px;">Firebase</span>
+  </div>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
