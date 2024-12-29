@@ -81,7 +81,6 @@
        height="180" />
 </p>
 
-
 ![snake gif](https://github.com/DivyanshArya09/DivyanshArya09/blob/output/github-contribution-grid-snake.gif)
 
 
