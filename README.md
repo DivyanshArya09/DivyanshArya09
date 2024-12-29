@@ -1,12 +1,12 @@
 
 
-<h2 align="start">Hi 👋, I'm Divyansh Arya</h2>
+<h2 align="start">Hi, I'm Divyansh Arya 👋</h2>
 
-<h3 align="center">A passionate Mobile Application Developer from India</h3>
+<h3 align="start">A passionate Mobile Application Developer from India</h3>
 
-- 🌱 I’m currently learning **JetPack Compose for building navtive android applications**
+- 🎯 Full-Stack Application Developer | ✍🏻 sketch artist | 🖥️ Open Source Enthusiast 
 
-- 💬 Ask me about **Flutter, Dart, Java, HTML, CSS, JavaScript, FireBase, Rest API, Jetpack compose**
+- 🌟 Passionate about building robust applications with **Flutter, React JS, Next JS, Node JS, Jetpack compose**
 
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
