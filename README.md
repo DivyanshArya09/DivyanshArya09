@@ -81,6 +81,6 @@
 </p>
 
 
-![snake gif](https://github.com/DivyanshArya09/DivyanshArya09/blob/output/github-snake.svg)
+![snake gif](https://github.com/DivyanshArya09/DivyanshArya09/blob/output/github-snake-dark.svg)
 
 
