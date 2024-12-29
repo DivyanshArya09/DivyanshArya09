@@ -71,15 +71,7 @@
 </p>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyansharya09&show_icons=true&locale=en&layout=compact" 
-       alt="divyansharya09" 
-       height="180" 
-       style="margin-right: 60px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansharya09&show_icons=true&locale=en" 
-       alt="divyansharya09" 
-       height="180" />
-</p>
+
 
 ![snake gif](https://github.com/DivyanshArya09/DivyanshArya09/blob/output/github-contribution-grid-snake.gif)
 
