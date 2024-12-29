@@ -79,7 +79,7 @@
        alt="divyansharya09" 
        height="180" />
 </p>
-
+<h3 align="start">My contributions are been eaten by a snake</h3>
 
 ![snake gif](https://github.com/DivyanshArya09/DivyanshArya09/blob/output/github-snake-dark.svg)
 
