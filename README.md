@@ -11,38 +11,38 @@
 - 📫 How to reach me **aryadivyansh8@gmail.com**
 
 <h2 align="left">🚀 Tech Stack</h2>
-<h3>🚀 Languages</h3>
-<ul>
-  <li>Dart</li>
-  <li>Java</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-</ul>
+<h2>🚀 Languages</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+</p>
 
 <h2>🛠️ Frameworks and Libraries</h2>
-<ul>
-  <li>Flutter</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>Next.js</li>
-  <li>React.js</li>
-</ul>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" />
+</p>
 
 <h2>🎨 CSS Frameworks</h2>
-<ul>
-  <li>Tailwind CSS</li>
-</ul>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+</p>
 
 <h2>💾 Databases</h2>
-<ul>
-  <li>MongoDB</li>
-  <li>PostgreSQL</li>
-</ul>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+</p>
 
 <h2>🔧 Others</h2>
-<ul>
-  <li>Firebase</li>
-</ul>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
