@@ -12,7 +12,7 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <h2 style="margin-right: 10px;">🛠️ Frameworks and Libraries:</h2>
+  <p style="margin-right: 10px;">🛠️ Frameworks and Libraries:</p>
   <p style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30" style="margin-right: 10px;" /> Flutter
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" style="margin-right: 10px;" /> Node.js
